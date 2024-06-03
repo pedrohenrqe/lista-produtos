@@ -1,0 +1,52 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Perfume em Pó - MACS Z",
+      "categoria": "Perfumes",
+      "preco": "R$ 100,00",
+      "desconto": "0%",
+      "imagem": "./images/produto_3.png",
+      "descricao": "Cupcake ipsum dolor sit amet soufflé cake gummi bears. Oat cake chocolate cake cookie biscuit caramels dragée. I love gummies jelly-o chupa chups jelly beans dessert. Soufflé jelly beans dragée toffee sweet roll pudding cupcake cotton candy cookie. I love marshmallow pudding apple pie dragée macaroon. Lemon drops gummies topping pie fruitcake jelly beans muffin. Candy canes chupa chups tootsie roll biscuit dessert I love liquorice fruitcake. Soufflé cotton candy wafer sweet roll carrot cake jelly beans I love I love. Halvah pie I love sugar plum pudding lemon drops jujubes cake. Powder cheesecake tart muffin ice cream. Toffee pie candy canes marshmallow I love muffin lollipop ice cream gingerbread. Macaroon I love brownie cookie pastry lemon drops jelly beans chupa chups. Croissant brownie marzipan candy canes soufflé chocolate.",
+      "quantidade": "5",
+      "ingredientes": [
+        "Alcohol",
+        "Aqua",
+        "Parfum",
+        "Lactic",
+        "Acid",
+        "Polyglyceryl",
+        "Caprylate",
+        "Denotonium"
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "Hidratante 90g",
+      "categoria": "Hidratantes",
+      "preco": "R$ 20,00",
+      "desconto": "20%",
+      "imagem": "./images/produto_1.png",
+      "descricao": "Cupcake ipsum dolor sit amet soufflé cake gummi bears. Oat cake chocolate cake cookie biscuit caramels dragée. I love gummies jelly-o chupa chups jelly beans dessert. Soufflé jelly beans dragée toffee sweet roll pudding cupcake cotton candy cookie. I love marshmallow pudding apple pie dragée macaroon. Lemon drops gummies topping pie fruitcake jelly beans muffin. Candy canes chupa chups tootsie roll biscuit dessert I love liquorice fruitcake. Soufflé cotton candy wafer sweet roll carrot cake jelly beans I love I love. Halvah pie I love sugar plum pudding lemon drops jujubes cake. Powder cheesecake tart muffin ice cream. Toffee pie candy canes marshmallow I love muffin lollipop ice cream gingerbread. Macaroon I love brownie cookie pastry lemon drops jelly beans chupa chups. Croissant brownie marzipan candy canes soufflé chocolate.",
+      "quantidade": "8",
+      "ingredientes": [
+        "Alcohol",
+        "Aqua",
+        "Parfum",
+        "Lactic",
+        "Acid",
+        "Polyglyceryl",
+        "Caprylate",
+        "Denotonium"
+      ]
+    },
+    {
+      "nome": "Sabonete em Barra",
+      "preco": "11",
+      "imagem": "./images/produto_5.png",
+      "descricao": "Cupcake ipsum dolor sit amet soufflé cake gummi bears. Oat cake chocolate cake cookie biscuit caramels dragée. I love gummies jelly-o chupa chups jelly beans dessert. Soufflé jelly beans dragée toffee sweet roll pudding cupcake cotton candy cookie. I love marshmallow pudding apple pie dragée macaroon. Lemon drops gummies topping pie fruitcake jelly beans muffin. Candy canes chupa chups tootsie roll biscuit dessert I love liquorice fruitcake. Soufflé cotton candy wafer sweet roll carrot cake jelly beans I love I love. Halvah pie I love sugar plum pudding lemon drops jujubes cake. Powder cheesecake tart muffin ice cream. Toffee pie candy canes marshmallow I love muffin lollipop ice cream gingerbread. Macaroon I love brownie cookie pastry lemon drops jelly beans chupa chups. Croissant brownie marzipan candy canes soufflé chocolate.",
+      "quantidade": "8",
+      "id": "3"
+    }
+  ]
+}
